@@ -8,7 +8,7 @@
 
 ## About Me
 
-Computer Science student (2022 to present) focusing on artificial intelligence and software engineering, with hands-on experience in machine learning and full-stack development.
+Computer Science student (2024 to present) focusing on artificial intelligence and software engineering, with hands-on experience in machine learning and full-stack development.
 
 **Portfolio:** [abdurrahman-portfolio1.netlify.app](https://abdurrahman-portfolio1.netlify.app/)
 
