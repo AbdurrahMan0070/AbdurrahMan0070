@@ -32,19 +32,14 @@
 </table>
 </div>
 
-## 💫 About Me
+## About Me
 
-- 🚀 Working on scaling AI-driven productivity tools and optimizing full-stack architectures
-- 🤝 Looking to collaborate on open-source AI projects or innovative SaaS platforms
-- 📚 Looking for help with advanced system design and large-scale distributed databases
-- 🧠 Learning Deep Learning frameworks and advanced prompt engineering for LLMs
-- 💬 Ask me about integrating AI APIs, Next.js performance, or clean code principles
+I am a developer with an interest in full-stack web development and artificial intelligence. I am currently building AI-driven productivity tools and improving my skills in full-stack architecture.
 
-## 🚀 Projects
-
-- 🐻 [BearCart AI](https://github.com/AbdurrahMan0070/bearcart-live): live demo of BearCart AI (Python)
-- 🧭 [Rahbar](https://github.com/AbdurrahMan0070/rahbar): HTML project, also [live version](https://github.com/AbdurrahMan0070/rahbar-live)
-- 🌊 [AquaOps](https://github.com/AbdurrahMan0070/aquaops): demo of AquaOps (HTML)
+- **Currently learning:** Deep Learning frameworks and advanced prompt engineering for large language models
+- **Looking to improve:** System design and large-scale distributed databases
+- **Open to:** Collaboration on open-source AI projects and SaaS platforms
+- **Ask me about:** Integrating AI APIs, Next.js performance and clean code principles
 
 ## 🌐 Socials
 
