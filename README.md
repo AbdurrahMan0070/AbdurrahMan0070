@@ -27,8 +27,7 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahMan0070&theme=tokyonight&hide_border=true&layout=compact" /></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=AbdurrahMan0070&theme=tokyonight&hide_border=true" /></td>
-</tr>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=AbdurrahMan0070&theme=tokyonight&hide_border=true" /></td></tr>
 </table>
 </div>
 
