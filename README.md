@@ -1,5 +1,3 @@
-<h1 align="center">Abdurrahman Shaikh</h1>
-<p align="center">Web Developer • AI Learner</p>
 
 <img src="assets/hero.svg" alt="Abdurrahman Shaikh" width="100%" />
 
