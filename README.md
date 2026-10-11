@@ -26,8 +26,6 @@
 <td><img src="https://github-readme-stats.vercel.app/api?username=AbdurrahMan0070&theme=tokyonight&hide_border=true&show_icons=true" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahMan0070&theme=tokyonight&hide_border=true&layout=compact" /></td>
 </tr>
-<tr>
-<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=AbdurrahMan0070&theme=tokyonight&hide_border=true" /></td></tr>
 </table>
 </div>
 
