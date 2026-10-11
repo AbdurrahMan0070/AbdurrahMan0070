@@ -13,6 +13,20 @@
 <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
 </div>
 
+## 📊 Analytics
+
+<div align="center">
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=AbdurrahMan0070&theme=tokyonight&hide_border=true&show_icons=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahMan0070&theme=tokyonight&hide_border=true&layout=compact" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=AbdurrahMan0070&theme=tokyonight&hide_border=true" /></td>
+</tr>
+</table>
+</div>
+
 # 💫 About Me:
 I’m currently working on scaling AI-driven productivity tools and optimizing full-stack architectures.<br><br>I’m looking to collaborate on open-source AI projects or innovative SaaS platforms.<br><br>I’m looking for help with mastering advanced system design and large-scale distributed databases.<br><br>I’m currently learning Deep Learning frameworks and advanced prompt engineering for LLMs.<br><br>Ask me about integrating AI APIs, Next.js performance, or clean code principles.
 
