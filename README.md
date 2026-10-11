@@ -1,3 +1,18 @@
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdurrahMan0070/AbdurrahMan0070/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/AbdurrahMan0070/AbdurrahMan0070/output/github-snake.svg" />
+</picture>
+</div>
+
+## 🗼 3D Contribution Tower
+
+<div align="center">
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
+</div>
+
 # 💫 About Me:
 I’m currently working on scaling AI-driven productivity tools and optimizing full-stack architectures.<br><br>I’m looking to collaborate on open-source AI projects or innovative SaaS platforms.<br><br>I’m looking for help with mastering advanced system design and large-scale distributed databases.<br><br>I’m currently learning Deep Learning frameworks and advanced prompt engineering for LLMs.<br><br>Ask me about integrating AI APIs, Next.js performance, or clean code principles.
 
